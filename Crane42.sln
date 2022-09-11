@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crane42", "EntityFramework\Crane42.csproj", "{FCF96E03-11E6-492D-ADB9-F02B5143B957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF96E03-11E6-492D-ADB9-F02B5143B957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF96E03-11E6-492D-ADB9-F02B5143B957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF96E03-11E6-492D-ADB9-F02B5143B957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF96E03-11E6-492D-ADB9-F02B5143B957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B131959-2285-4583-9AA1-6CD208AB1269}
+	EndGlobalSection
+EndGlobal
