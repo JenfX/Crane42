@@ -20,7 +20,7 @@ namespace EntityFramework
 {
     public partial class MainForm : Form
     {
-        static ITelegramBotClient bot = new TelegramBotClient("5554564466:AAEwlBKICMBkOBCfiV3rYrqV7d9vba7v83U"); //-1001734941282
+        static ITelegramBotClient bot = new TelegramBotClient(""); //-1001734941282
         private const string table = "Requests"; //НЕ ЗАБЫВАТЬ ПРОВЕРЯТЬ НАЗВАНИЯ!!!
         private SqlConnection sqlConnection = null;
         private SqlCommandBuilder sqlCommandBuilder = null;
